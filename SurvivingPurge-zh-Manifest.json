@@ -1,0 +1,12 @@
+{
+ "fileAdress": "https://cdn.jsdelivr.net/gh/xiaojianaichuan/spcn@main/SurvivingPurge-zh.json",
+ "manifestAdress": "https://cdn.jsdelivr.net/gh/xiaojianaichuan/spcn@main/SurvivingPurge-zh-Manifest.json",
+ "timeStamp": 1763500000000,
+ "id": "9f2b7c14-3a6e-4d10-9c5a-1e7d4b8a2c60",
+ "languageName": "Chinese",
+ "languageCode": "zh",
+ "signatures": [
+  "Machine Translation"
+ ],
+ "completion": 100
+}
